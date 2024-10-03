@@ -44,3 +44,4 @@ I am a highly motivated and detail-oriented aspiring software developer with a s
 - Basic knowledge of Linux Office (LibreOffice) and bash scripting language
 
 # Contact Me
+*{LinkeIn:}(https://www.linkedin.com/in/lefu-mofokeng-5a9033243/)
